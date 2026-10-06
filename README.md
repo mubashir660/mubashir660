@@ -1,23 +1,23 @@
 <div align="center">
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0f2027,50:134e4a,100:0f766e&text=Muhammad%20Mubashir&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Full%20Stack%20%7C%20Android%20%7C%20Web3%20Developer&descColor=f5c542&descSize=20&descAlignY=62&animation=fadeIn" alt="Muhammad Mubashir" width="100%" /></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:0a0a0a,55:1c1917,100:9a3412&text=Muhammad%20Mubashir&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Full%20Stack%20%7C%20Android%20%7C%20Web3%20Developer&descColor=ff8a3d&descSize=20&descAlignY=62&animation=fadeIn" alt="Muhammad Mubashir" width="100%" /></a>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=F5C542&center=true&vCenter=true&width=760&height=40&lines=Building+scalable%2C+production-ready+applications;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Solana+%C2%B7+Smart+Contracts+%C2%B7+Wallet+Integrations;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Android" alt="Typing animation" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=FF8A3D&center=true&vCenter=true&width=760&height=40&lines=Building+scalable%2C+production-ready+applications;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Solana+%C2%B7+Smart+Contracts+%C2%B7+Wallet+Integrations;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Android" alt="Typing animation" /></a>
 
 <br/><br/>
 
-<a href="https://mkdevz.site/"><img src="https://img.shields.io/badge/PORTFOLIO-mkdevz.site-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://mkdevz.site/"><img src="https://img.shields.io/badge/PORTFOLIO-mkdevz.site-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.fiverr.com/mmubashir660"><img src="https://img.shields.io/badge/HIRE%20ME-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 <a href="https://www.linkedin.com/in/mubashir66/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mubashir.dev66@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-D4A017?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:mubashir.dev66@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/github/followers/mubashir660?style=flat-square&label=Followers&color=0D9488&labelColor=0f172a" alt="Followers" /></a>
-<a href="#"><img src="https://img.shields.io/github/stars/mubashir660?style=flat-square&label=Stars&color=F5C542&labelColor=0f172a" alt="Stars" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-22C55E?style=flat-square&labelColor=0f172a" alt="Status" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Based%20in-Pakistan-F59E0B?style=flat-square&labelColor=0f172a" alt="Location" /></a>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=mubashir660&label=Profile%20Views&color=0D9488&style=flat-square&labelColor=0f172a" alt="Profile Views" /></a>
+<a href="#"><img src="https://img.shields.io/github/followers/mubashir660?style=flat-square&label=Followers&color=F97316&labelColor=18181b" alt="Followers" /></a>
+<a href="#"><img src="https://img.shields.io/github/stars/mubashir660?style=flat-square&label=Stars&color=FBBF24&labelColor=18181b" alt="Stars" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-22C55E?style=flat-square&labelColor=18181b" alt="Status" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Based%20in-Pakistan-FB923C?style=flat-square&labelColor=18181b" alt="Location" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=mubashir660&label=Profile%20Views&color=EA580C&style=flat-square&labelColor=18181b" alt="Profile Views" /></a>
 
 </div>
 
@@ -97,7 +97,9 @@ Native and **WebView-based** apps with **Kotlin & Android Studio**, including na
 <tr>
 <td width="50%" valign="top">
 
-#### 🪙 Opal Chain
+### 🪙 [Opal Chain](https://mkdevz.site/)
+**Web3 · Solana**
+
 Web3 platform on **Solana** with an Anchor/Rust SPL token, a multi-tier wallet system with admin release pipeline, campaigns and missions, plus a **Telegram Mini App**.
 
 `Solana` `Rust` `React` `Node.js` `MongoDB`
@@ -105,8 +107,10 @@ Web3 platform on **Solana** with an Anchor/Rust SPL token, a multi-tier wallet s
 </td>
 <td width="50%" valign="top">
 
-#### 🔁 OPAL P2P Market
-Peer-to-peer crypto marketplace for **OPAL / USDT** trading with secure order flow, authentication and admin controls.
+### 🔁 [OPAL P2P Market](https://mkdevz.site/)
+**Crypto Marketplace**
+
+Peer-to-peer marketplace for **OPAL / USDT** trading with secure order flow, authentication and admin controls.
 
 `React` `Express` `MongoDB` `JWT`
 
@@ -115,15 +119,19 @@ Peer-to-peer crypto marketplace for **OPAL / USDT** trading with secure order fl
 <tr>
 <td width="50%" valign="top">
 
-#### 🛍️ ZynaraShop
-Responsive **e-commerce storefront** for a fashion brand with a clean UI and scalable architecture.
+### 🛍️ [ZynaraShop](https://mkdevz.site/)
+**E-commerce**
+
+Responsive **fashion storefront** with a clean UI, smooth shopping experience and scalable architecture.
 
 `React` `Tailwind` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📱 Opal Android App
+### 📱 [Opal Android App](https://mkdevz.site/)
+**Android · Kotlin**
+
 **Kotlin** app with WebView, OAuth login, user consent flow and **AdMob mediation**.
 
 `Kotlin` `Android` `AdMob`
@@ -134,7 +142,7 @@ Responsive **e-commerce storefront** for a fashion brand with a clean UI and sca
 
 <div align="center">
 
-<a href="https://mkdevz.site/"><img src="https://img.shields.io/badge/View%20All%20Projects-mkdevz.site-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View all projects" /></a>
+<a href="https://mkdevz.site/"><img src="https://img.shields.io/badge/View%20All%20Projects-mkdevz.site-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View all projects" /></a>
 
 </div>
 
@@ -144,7 +152,7 @@ Responsive **e-commerce storefront** for a fashion brand with a clean UI and sca
 
 <div align="center">
 
-<a href="#"><img src="https://streak-stats.demolab.com/?user=mubashir660&hide_border=true&background=0D1117&ring=F5C542&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C542&sideLabels=2DD4BF&dates=94A3B8" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://streak-stats.demolab.com/?user=mubashir660&hide_border=true&background=18181B&ring=FF8A3D&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8A3D&sideLabels=FDBA74&dates=A1A1AA" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -157,12 +165,12 @@ Have a project in mind: a web app, a blockchain platform or an Android app? I'm 
 <div align="center">
 
 <a href="https://www.fiverr.com/mmubashir660"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-<a href="https://mkdevz.site/"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://mkdevz.site/"><img src="https://img.shields.io/badge/Portfolio-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mubashir66/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/mmubashir6600"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://instagram.com/mmubashir6600"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:mubashir.dev66@gmail.com"><img src="https://img.shields.io/badge/Email-D4A017?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:mubashir.dev66@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f766e,50:134e4a,100:0f2027" width="100%" alt="" /></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9a3412,55:1c1917,100:0a0a0a" width="100%" alt="" /></a>
 
 </div>
