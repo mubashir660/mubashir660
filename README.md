@@ -97,8 +97,7 @@ Native and **WebView-based** apps with **Kotlin & Android Studio**, including na
 <tr>
 <td width="50%" valign="top">
 
-### 🪙 [Opal Chain](https://mkdevz.site/)
-**Web3 · Solana**
+### 🪙 [Web3 · Solana](https://mkdevz.site/)
 
 Web3 platform on **Solana** with an Anchor/Rust SPL token, a multi-tier wallet system with admin release pipeline, campaigns and missions, plus a **Telegram Mini App**.
 
