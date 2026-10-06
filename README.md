@@ -1,5 +1,22 @@
-💫 About Me:
-👋 Hi, I'm Muhammad Mubashir<br><br>Full Stack Developer | Android Developer | Web3 Developer<br><br>I'm a passionate Full Stack & Web3 Developer focused on building modern, scalable, and user-friendly applications.<br><br>💻 Full Stack: React.js, Node.js, Express.js, MongoDB<br>📱 Android: Kotlin, Android Studio, WebView & Native Integrations<br>⛓️ Web3: Solana, SPL Tokens, Wallet Integration, Blockchain Applications<br>🎨 Frontend: HTML, CSS, JavaScript, Responsive UI<br>⚙️ Backend: REST APIs, Authentication, JWT, 2FA, Database Design<br>🚀 Deployment: Vercel, VPS, cPanel & Cloud Services<br><br>🔨 What I Build<br><br>🌐 Full Stack Web Applications<br><br>⛓️ Web3 & Blockchain Applications<br><br>💱 P2P Crypto Trading Platforms<br><br>🛒 E-commerce Stores<br><br>📱 Android Applications<br><br>🔐 Secure Authentication Systems & APIs<br><br>📌 Current Focus<br><br>Building production-ready Full Stack + Web3 applications with clean architecture, secure APIs, modern UI, and seamless user experiences.<br><br>🤝 Let's Connect<br><br>🌐 Portfolio: https://mkdevz.site<br><br>🎯 Fiverr: https://www.fiverr.com/mmubashir660<br><br>🐙 GitHub: https://github.com/Mubashir-6600<br><br>💼 LinkedIn: https://www.linkedin.com/in/mubashir66/
+# About Me
+
+Hi, I'm Muhammad Mubashir, a Full Stack, Android, and Web3 Developer focused on building modern, scalable, and production-ready applications. I specialize in developing complete web solutions using React.js, Node.js, Express.js, and MongoDB, with a strong focus on clean architecture, secure backend systems, responsive interfaces, and smooth user experiences.
+
+I also work with Web3 and blockchain technologies, particularly Solana, where I build blockchain applications, token-based platforms, wallet integrations, and decentralized solutions. Alongside web development, I develop Android applications using Kotlin and Android Studio, including WebView-based applications and native integrations.
+
+My experience includes building e-commerce platforms, P2P crypto marketplaces, authentication systems, REST APIs, blockchain applications, and custom web and mobile solutions. I enjoy solving complex technical problems and turning ideas into reliable, user-friendly products.
+
+Currently, I am focused on expanding my expertise in Full Stack Development, Web3, Blockchain, and modern application architecture while continuing to build practical and innovative projects.
+
+## Connect With Me
+
+Portfolio: https://mkdevz.site
+
+Fiverr: https://www.fiverr.com/mmubashir660
+
+GitHub: https://github.com/mubashir660
+
+LinkedIn: https://www.linkedin.com/in/mubashir66/
 
 
 ## 🌐 Socials:
