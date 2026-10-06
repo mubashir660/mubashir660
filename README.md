@@ -27,12 +27,13 @@
 
 I'm a **Full Stack, Android & Web3 Developer** focused on building modern, scalable and production-ready applications. I care about **clean architecture**, **secure backend systems**, **responsive interfaces** and **smooth user experiences**, and I enjoy turning complex technical problems into reliable, user-friendly products.
 
-```js
+```ts
 const mubashir = {
-  roles:      ["Full Stack Developer", "Android Developer", "Web3 Developer"],
-  mainStack:  ["React", "Node.js", "Express", "MongoDB", "Solana", "Kotlin"],
-  builds:     ["E-commerce platforms", "P2P crypto marketplaces", "Auth systems", "REST APIs", "Blockchain apps"],
-  openTo:     ["Freelance projects", "Collaborations", "Full-time roles"],
+  roles:     ["Full Stack Developer", "Android Developer", "Web3 Developer"],
+  mainStack: ["React", "Node.js", "Express", "MongoDB", "Solana", "Kotlin"],
+  builds:    ["E-commerce platforms", "P2P crypto marketplaces", "Auth systems", "REST APIs", "Blockchain apps"],
+  openTo:    ["Freelance projects", "Collaborations", "Full-time roles"],
+  available: true, // 🟢 taking new projects
 };
 ```
 
