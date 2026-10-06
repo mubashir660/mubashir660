@@ -107,10 +107,9 @@ Web3 platform on **Solana** with an Anchor/Rust SPL token, a multi-tier wallet s
 </td>
 <td width="50%" valign="top">
 
-### 🔁 [OPAL P2P Market](https://mkdevz.site/)
-**Crypto Marketplace**
+### 🔁 P2P Crypto Marketplace
 
-Peer-to-peer marketplace for **OPAL / USDT** trading with secure order flow, authentication and admin controls.
+Secure peer-to-peer trading platform with authentication and admin controls.
 
 `React` `Express` `MongoDB` `JWT`
 
@@ -119,20 +118,18 @@ Peer-to-peer marketplace for **OPAL / USDT** trading with secure order flow, aut
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [ZynaraShop](https://mkdevz.site/)
-**E-commerce**
+### 🛍️ E-commerce Store
 
-Responsive **fashion storefront** with a clean UI, smooth shopping experience and scalable architecture.
+Responsive fashion storefront with a clean UI and smooth shopping experience.
 
 `React` `Tailwind` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 [Opal Android App](https://mkdevz.site/)
-**Android · Kotlin**
+### 📱 Android App
 
-**Kotlin** app with WebView, OAuth login, user consent flow and **AdMob mediation**.
+Kotlin app with WebView, OAuth login and ad monetization.
 
 `Kotlin` `Android` `AdMob`
 
